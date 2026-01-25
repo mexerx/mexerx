@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Demo GIF](https://github.com/mexerx/mexerx/blob/main/ChatGPT%20Image%2025.%20Jan.%202026%2C%2018_59_34.svg)
 <!--
 **mexerx/mexerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
