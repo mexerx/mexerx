@@ -1,10 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I’m Mex
 
 ⫭⩶ ACCESS GRANTED ⩶⫬ <br>
 §1 No system is safe<br>
 §2 Break the impossible<br>
 §3 Play in cyber & meatspace<br>
 ----
+I’m currently working on a Game called ![Hacker's Lair]()
+
 
 <!--
 ![Demo GIF](https://github.com/mexerx/mexerx/blob/main/ChatGPT%20Image%2025.%20Jan.%202026%2C%2018_59_34.svg)
